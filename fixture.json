@@ -1,0 +1,18 @@
+[
+{
+    "model": "bankapp.account",
+    "pk": 1,
+    "fields": {
+        "name": "Alice",
+        "balance": "100.00"
+    }
+},
+{
+    "model": "bankapp.account",
+    "pk": 2,
+    "fields": {
+        "name": "Bob",
+        "balance": "150.00"
+    }
+}
+]
